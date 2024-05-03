@@ -26,6 +26,7 @@ Response Body (Success):
 ```
 
 Response Body (Error):
+
 ```json
 {
   "errors": "Username must not blank, ..."
@@ -58,6 +59,7 @@ Response Body (Success):
 ```
 
 Response Body (Error):
+
 ```json
 {
   "errors": "Username or password wrong, ..."
@@ -83,6 +85,7 @@ Response Body (Success):
 ```
 
 Response Body (Error):
+
 ```json
 {
   "errors": "Unauthorized, ..."
@@ -117,6 +120,7 @@ Response Body (Success):
 ```
 
 Response Body (Error):
+
 ```json
 {
   "errors": "Unauthorized, ..."
@@ -139,6 +143,7 @@ Response Body (Success):
 ```
 
 Response Body (Error):
+
 ```json
 {
   "errors": "Unauthorized, ..."
