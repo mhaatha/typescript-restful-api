@@ -1,0 +1,19 @@
+## Packages
+- Dependencies:
+  - Zod -> Schema declaration and validation libarray 
+  - Express -> Web server framework 
+  - Winston -> Logging 
+  - Bcrypt -> Password hashing 
+
+- Dev Dependencies:
+  - @types/express -> Type definitions for express 
+  - Prisma -> ORM Database 
+  - @types/bcrypt -> Type definitions for bcrypt
+  - @types/jest -> Type definitions for Jest
+  - @babel/preset-env -> Compile Jest 
+  - @types/supertest -> Type definitions for supertest
+  - typescript -> Typescript superset
+
+- Setup Typescript for Jest:
+  - @babel/preset-typescript -> Preset for Typescript
+  - @jest/globals -> Set Jest as global functions in Typescript
