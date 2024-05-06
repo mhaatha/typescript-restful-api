@@ -20,3 +20,4 @@
 
 ## Workflow
 1. Create API Spesification -> Keuntungannya adalah kita akan selalu membuat aplikasinya mengikuti kontrak dari si API yang kita buat. Kesepakatan antara tim FE dan BE. Create docs/user.md
+2. Setup Database
