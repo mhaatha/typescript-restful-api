@@ -24,3 +24,8 @@
 3. Setup Winston (Logging)
 4. Setup Express
 5. Setup Prisma Logging (Even-Based Combo with Winston)
+6. Structure Folder:
+  - Controller -> Request untuk handler web. Hanya akan menerima request, business logic nya service yang akan menangani.
+  - Service -> Menerima logic ke database dan lain-lain.
+  - Model -> Menyimpan data dari hasil request dan response.
+  - Validation -> Validasi.
