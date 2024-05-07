@@ -29,3 +29,6 @@
   - Service -> Menerima logic ke database dan lain-lain.
   - Model -> Menyimpan data dari hasil request dan response.
   - Validation -> Validasi.
+  - Error -> Error Handling.
+  - Routes -> API Endpoint.
+  - Middlewares -> Middlewares.
