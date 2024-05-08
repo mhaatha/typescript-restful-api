@@ -9,7 +9,7 @@ export const errorMiddleware = async (error: Error, req: Request, res: Response,
     });
   } else if (error instanceof ResponseError) {
     res.status(error.status).json({
-      errrors: error.message
+      errors: error.message
     });
   } else {
     res.status(500).json({
