@@ -1,6 +1,6 @@
 ## Packages
 - Dependencies:
-  - Zod -> Schema declaration and validation libarray 
+  - Zod -> Schema declaration and validation library 
   - Express -> Web server framework 
   - Winston -> Logging 
   - Bcrypt -> Password hashing 
