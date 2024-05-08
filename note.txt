@@ -32,3 +32,5 @@
   - Error -> Error Handling.
   - Routes -> API Endpoint.
   - Middlewares -> Middlewares.
+7. Register User API
+8. Login User API
