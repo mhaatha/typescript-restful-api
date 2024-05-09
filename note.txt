@@ -32,9 +32,11 @@
   - Error -> Error Handling.
   - Routes -> API Endpoint.
   - Middlewares -> Middlewares.
+  - Types -> It adds an optional user property to the Request object.
 7. Register User API
 8. Login User API
 9. Get User API (auth-middleware -> Middleware untuk menerima token)
 10. Update User API
 11. Delete User API
 12. Create Contact API
+13. Get Contact API
