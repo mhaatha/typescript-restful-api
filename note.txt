@@ -37,3 +37,4 @@
 9. Get User API (auth-middleware -> Middleware untuk menerima token)
 10. Update User API
 11. Delete User API
+12. Create Contact API
