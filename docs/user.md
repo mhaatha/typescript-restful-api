@@ -103,8 +103,8 @@ Request Body:
 
 ```json
 {
-  "username": "mhaatha", // Tidak wajib
-  "password": "rahasia" // Tidak wajib
+  "password": "rahasia", // Tidak wajib
+  "name": "Hafidz Athaya" // Tidak wajib
 }
 ```
 

@@ -35,3 +35,4 @@
 7. Register User API
 8. Login User API
 9. Get User API (auth-middleware -> Middleware untuk menerima token)
+10. Update User API
