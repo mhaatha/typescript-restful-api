@@ -42,3 +42,4 @@
 13. Get Contact API
 14. Update Contact API
 15. Remove Contact API
+16. Search Contact API
