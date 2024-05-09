@@ -50,5 +50,15 @@ export class UserController {
       next(e);
     }
   }
-  
+
+  static async logout(req: UserRequest, res: Response, next: NextFunction) {
+    try {
+      const response = await UserService.logout(req.user!);
+      res.status(200).json({
+        data: "OK"
+      });
+    } catch (e) {
+      next(e);
+    }
+  }
 }
