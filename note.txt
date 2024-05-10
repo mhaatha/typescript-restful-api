@@ -48,3 +48,4 @@
 19. Update Address API
 20. Remove Address API
 21. List Address API
+22. Distribution File -> Compile TS to JS (tsc)
