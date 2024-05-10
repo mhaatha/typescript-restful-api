@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx jest"
+    "test": "npx jest",
+    "build": "tsc",
+    "start": "node dist/main.js"
   },
   "jest": {
     "transform": {
